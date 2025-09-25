@@ -1,0 +1,36 @@
+# متطلبات نظام بصيرة الثوري المكتمل النهائي
+# Basera Revolutionary AI System - Complete Requirements
+
+# المكتبات الأساسية - Core Libraries
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# واجهات المستخدم - User Interfaces  
+gradio>=3.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+
+# معالجة البيانات - Data Processing
+pandas>=1.3.0
+
+# الرسوم والتصور - Graphics and Visualization
+pillow>=8.3.0
+plotly>=5.0.0
+
+# أدوات إضافية - Additional Tools
+requests>=2.25.0
+python-multipart>=0.0.5
+
+# اختياري للتطوير - Optional for Development
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# ملاحظات التثبيت:
+# pip install -r requirements.txt
+# 
+# للتشغيل السريع:
+# pip install numpy matplotlib gradio fastapi uvicorn pillow
+#
+# جميع المكتبات متوافقة مع Python 3.8+
+
